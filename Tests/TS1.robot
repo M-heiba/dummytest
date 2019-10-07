@@ -11,4 +11,5 @@ Resource    ../Resources/PO/homepage.robot
 
 *** Test Cases ***
 TC1
-    home page is loaded
+    home page is loaded 
+    log   werty
