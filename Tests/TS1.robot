@@ -16,3 +16,4 @@ ${VAR}   XXXX
 TC1
     home page is loaded 
     log   werty
+    log   hello 
